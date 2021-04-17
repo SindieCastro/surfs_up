@@ -2,7 +2,7 @@
 ## Overview of Project
 ### Background
 
-The client wants to open a surf and ice cream shop and has asked for temperature trends specifically for the months of June and December in Oahu, an island in Hawaii. The information willa assist the client in determining if the surf and ice cream shop will sustain all year round.  
+The client wants to open a surf and ice cream shop and has asked for temperature trends specifically for the months of June and December in Oahu, an island in Hawaii. The information will assist the client in determining if the surf and ice cream shop will sustain all year round.  
 
 ### Purpose
 
