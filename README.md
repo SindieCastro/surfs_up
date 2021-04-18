@@ -6,7 +6,7 @@ The client wants to open a surf and ice cream shop and has asked for temperature
 
 ### Purpose
 
-The purpose of this analysis is to capture the weather trends for June and July in Oahu.
+The purpose of this analysis is to capture the weather trends for June and December in Oahu.
 
 ### Results
 
